@@ -55,6 +55,7 @@
     <Content Include="index.html" />
     <Content Include="scripts\kendo\js\jquery.min.js" />
     <Content Include="scripts\kendo\js\kendo.mobile.min.js" />
+    <Content Include="scripts\sjcl.js" />
     <Content Include="styles\images\ios-sprite.png" />
     <Content Include="styles\images\icons.png" />
     <Content Include="styles\images\iconmasks.svg" />
